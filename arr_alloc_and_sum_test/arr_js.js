@@ -14,6 +14,7 @@ console.time("time");
 for (let i = 0; i < len; i++){
     sum+=a[i]
 }
+//let sum = a.reduce((x,y) => x + y)
 
 console.timeEnd("time")
 
