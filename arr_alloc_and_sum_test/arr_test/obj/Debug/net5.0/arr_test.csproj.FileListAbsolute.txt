@@ -1,0 +1,16 @@
+/home/n1ght/Repos/arr_test/obj/Debug/net5.0/arr_test.csprojAssemblyReference.cache
+/home/n1ght/Repos/arr_test/obj/Debug/net5.0/arr_test.GeneratedMSBuildEditorConfig.editorconfig
+/home/n1ght/Repos/arr_test/obj/Debug/net5.0/arr_test.AssemblyInfoInputs.cache
+/home/n1ght/Repos/arr_test/obj/Debug/net5.0/arr_test.AssemblyInfo.cs
+/home/n1ght/Repos/arr_test/obj/Debug/net5.0/arr_test.csproj.CoreCompileInputs.cache
+/home/n1ght/Repos/arr_test/bin/Debug/net5.0/arr_test
+/home/n1ght/Repos/arr_test/bin/Debug/net5.0/arr_test.deps.json
+/home/n1ght/Repos/arr_test/bin/Debug/net5.0/arr_test.runtimeconfig.json
+/home/n1ght/Repos/arr_test/bin/Debug/net5.0/arr_test.runtimeconfig.dev.json
+/home/n1ght/Repos/arr_test/bin/Debug/net5.0/arr_test.dll
+/home/n1ght/Repos/arr_test/bin/Debug/net5.0/ref/arr_test.dll
+/home/n1ght/Repos/arr_test/bin/Debug/net5.0/arr_test.pdb
+/home/n1ght/Repos/arr_test/obj/Debug/net5.0/arr_test.dll
+/home/n1ght/Repos/arr_test/obj/Debug/net5.0/ref/arr_test.dll
+/home/n1ght/Repos/arr_test/obj/Debug/net5.0/arr_test.pdb
+/home/n1ght/Repos/arr_test/obj/Debug/net5.0/arr_test.genruntimeconfig.cache
